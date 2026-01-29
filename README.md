@@ -1,6 +1,13 @@
 # Python AI Agent Study
 #### [강의] (https://www.youtube.com/watch?v=t4RdOgUReKo&list=PLGdAO3WWoeI7Kf8gM42ZIP3BnFd9fvtit)
 
+## 라이브러리
+```
+pip install -qU tavily-python langchain_community langchain_anthropic langgraph langchain-google-genai
+```
+
+<br />
+
 ## 가상환경 생성
 ```
 python -m venv venv
