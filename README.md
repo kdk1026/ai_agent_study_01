@@ -3,7 +3,7 @@
 
 ## 라이브러리
 ```
-pip install -qU tavily-python langchain_community langchain_anthropic langgraph langchain-google-genai
+pip install -qU tavily-python langchain_community langchain_anthropic langgraph langchain-google-genai python-dotenv
 ```
 
 <br />
